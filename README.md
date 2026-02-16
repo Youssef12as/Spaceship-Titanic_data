@@ -1,6 +1,5 @@
-```markdown
 # 🚀 Spaceship Titanic: AI Analytics & Prediction System
-### 🎓 Pixels '26 Graduation Project | Machine Learning Track
+### 🎓| Machine Learning Track
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)
@@ -169,7 +168,7 @@ streamlit run app.py
 **Youssef Sayed**
 
 * Computer Engineering Student, Cairo University.
-* **Pixels '26** - Machine Learning Track.
+
 
 ```
 
