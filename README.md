@@ -1,13 +1,21 @@
+<div align="center">
+
 # 🚀 Spaceship Titanic: AI Analytics & Prediction System
 ### 🎓| Machine Learning Track
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spaceship-titanic-ai-ultimate.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24%2B-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-> **🔴 Live Demo:** Click the "Streamlit" badge above or [**Try the App Here**](https://spaceship-titanic-ai-ultimate.streamlit.app/) to interact with the model!
+<a href="https://spaceship-titanic-ai-ultimate.streamlit.app/">
+  <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-CLICK_TO_OPEN_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" alt="Live Demo" />
+</a>
 
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24%2B-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+</div>
 ## 📖 Project Overview
 [cite_start]This project is an End-to-End Machine Learning solution for the **Spaceship Titanic** challenge[cite: 9]. [cite_start]The goal is to predict whether a passenger was transported to an alternate dimension during the spaceship's collision with a spacetime anomaly[cite: 14].
 
