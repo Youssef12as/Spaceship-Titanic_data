@@ -1,10 +1,12 @@
 # 🚀 Spaceship Titanic: AI Analytics & Prediction System
 ### 🎓| Machine Learning Track
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24%2B-F7931E?style=for-the-badge&logo=scikit-learn)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spaceship-titanic-ai-ultimate.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24%2B-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
+> **🔴 Live Demo:** Click the "Streamlit" badge above or [**Try the App Here**](https://spaceship-titanic-ai-ultimate.streamlit.app/) to interact with the model!
 
 ## 📖 Project Overview
 [cite_start]This project is an End-to-End Machine Learning solution for the **Spaceship Titanic** challenge[cite: 9]. [cite_start]The goal is to predict whether a passenger was transported to an alternate dimension during the spaceship's collision with a spacetime anomaly[cite: 14].
