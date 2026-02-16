@@ -4,7 +4,7 @@
 ### 🎓| Machine Learning Track
 
 
-<a href="https://spaceship-titanic-ai-ultimate.streamlit.app/">
+<a href="https://spaceship-titanicdata-2lxgetfcsda7rybovlkzpj.streamlit.app/">
   <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-CLICK_TO_OPEN_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" alt="Live Demo" />
 </a>
 
